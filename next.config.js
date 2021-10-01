@@ -1,7 +1,6 @@
 const withPlugins = require('next-compose-plugins')
 const withTM = require('next-transpile-modules')([
-  //'react-markdown', // Doesn't help
-  //'@lotusengine/oldcore'
+ // 'react-markdown', // Doesn't help
 ])
 
 const defaultConfig = {
