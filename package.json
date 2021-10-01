@@ -3,7 +3,6 @@
   "scripts": {
     "start": "next dev"
   },
-  "prettier": "@lotusengine/prettier-config",
   "dependencies": {
     "@types/node": "16.10.2",
     "@types/react": "17.0.21",
